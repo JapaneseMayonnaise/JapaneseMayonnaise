@@ -6,7 +6,7 @@ I'm an AWS consultant at [kreuzwerker](https://kreuzwerker.de/en/about). I did t
 
 <details>
 <summary><b> A little bit more about me (you may skip this) </b></summary>
-I grew up in a small rural town in Japan as a "smart", frustrated and closeted yet super gay kid. I studied law for undergrad literally just because that was something prestigious and I didn't know what I wanted to do. After that, of course I didn't know what to do with my life and career. I was sad. Like, really sad. Eventually, I decided to work in tech because that's what I thought would get me a job overseas and get me out of Japan. To be fully honest, I'm still in search for my expertise I feel good about and work-life balance that works for me.
+I grew up in a small rural town in Japan as a "smart", frustrated and closeted yet super gay kid. I studied law for undergrad literally just because that was something prestigious and I didn't know what I wanted to do. After that, of course I didn't know what to do with my life and career. I was sad. Like, really sad. Eventually, I decided to work in tech because that's what I thought would get me a job overseas and get me out of Japan. To be fully honest, I'm still in search for my expertise I feel good about and for work-life balance that works for me.
 If you are in the similar position as 10 years ago Shimba and need to talk to someone, I'm here so please message me🤝🏻💖
 </details> 
 
