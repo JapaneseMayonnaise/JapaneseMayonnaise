@@ -2,7 +2,7 @@
 
 <img align="right" src="https://raw.githubusercontent.com/kreuzwerkerbot/kreuzwerkerbot/master/assets/xw.png" width="200">
 
-I'm an AWS consultant at [kreuzwerker](https://kreuzwerker.de/en/about). I did the front-end development for 3 years at the startup based in Tokyo, and recently changed my career to AWS consulting. Right now, my focus is on the AWS migration topic.
+I'm an AWS consultant at [kreuzwerker](https://kreuzwerker.de/en/about). I did the front-end development for 3 years at the startup based in Tokyo, and recently changed my career to AWS consulting. 
 
 <details>
 <summary><b> A little bit more about me (you may skip this) </b></summary>
