@@ -16,7 +16,7 @@ Especiallly if you are a fellow queer/racial minority folk in tech or wants to g
 (Kreuzwerker is a real good place to work in my very honest opinion, if that's what you wanna know 😎)
 
 My German is work in progress so write me in English.
-- [LinkedIn](https://www.linkedin.com/in/eshimba/)
+- [LinkedIn](https://www.linkedin.com/in/shinnba/)
 - [E-mail](mailto:kai.shimba@kreuzwerker.berlin)
 
 
